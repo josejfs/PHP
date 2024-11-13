@@ -6,25 +6,6 @@
 
 ---
 
-<h2 align="center">📂 Projetos PHP</h2>
-
-<div align="center">
-  <a href="https://github.com/josejfs/projeto1-php" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejfs&repo=projeto1-php&theme=radical" />
-  </a>
-  <a href="https://github.com/josejfs/projeto2-php" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejfs&repo=projeto2-php&theme=radical" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/josejfs/projeto3-php" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejfs&repo=projeto3-php&theme=radical" />
-  </a>
-</div>
-
----
-
 <h2 align="center">🛠 Tecnologias & Ferramentas</h2>
 
 <p align="center">
