@@ -28,7 +28,7 @@
 <h2 align="center">🛠 Tecnologias & Ferramentas</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,linux,apache,nginx,github,git" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,linux,apache,github,git" />
 </p>
 
 ---
